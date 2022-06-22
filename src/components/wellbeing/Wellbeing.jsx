@@ -2,7 +2,7 @@ import React from "react";
 import "./Wellbeing.css";
 const Wellbeing = () => {
   return (
-    <div
+    <section
       id="Wellbeing"
       className="container-fluid
     "
@@ -46,7 +46,7 @@ const Wellbeing = () => {
           Children.
         </p>
       </div>
-    </div>
+    </section>
   );
 };
 
