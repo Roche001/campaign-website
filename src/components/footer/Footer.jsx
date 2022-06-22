@@ -9,7 +9,7 @@ const Footer = () => {
     <div id="footer">
       <div className="icons">
         <div className="icon-a">
-          <a className="icon" href="https://www.facebook.com/">
+          <a className="icon icon-facebook" href="https://www.facebook.com/">
             {" "}
             <BsFacebook />
           </a>
@@ -20,12 +20,14 @@ const Footer = () => {
           </a>
         </div>
         <div className="icon-a">
-          <a className="icon" href="https://www.twitter.com">
-            <BsTwitter />
+          <a className="icon icon-twitter" href="https://www.twitter.com">
+            <span>
+              <BsTwitter />
+            </span>
           </a>
         </div>
         <div className="icon-a">
-          <a className="icon" href="https://www.linkedin.com">
+          <a className="icon icon-linkedin" href="https://www.linkedin.com">
             <BsLinkedin />
           </a>
         </div>
