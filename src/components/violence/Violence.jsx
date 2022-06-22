@@ -2,7 +2,7 @@ import React from "react";
 import "./Violence.css";
 const Violence = () => {
   return (
-    <div id="Violence" className="container-fluid">
+    <section id="Violence" className="container-fluid">
       <div className="violence-head">
         <h5>The effects of violence on youths in the community</h5>
       </div>
@@ -41,7 +41,7 @@ const Violence = () => {
           not just those directly exposed to it.{" "}
         </p>
       </div>
-    </div>
+    </section>
   );
 };
 
