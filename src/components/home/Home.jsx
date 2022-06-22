@@ -44,6 +44,17 @@ const Home = () => {
           families, children, and loved ones.{" "}
         </p>
       </div>
+      <div className="notes-1">
+        <h4>Notes:</h4>
+        <p>
+          Clearly, community violence causes increased depression, suicide,
+          anxiety, posttraumatic stress, and heart-related complications, which
+          might create premature deaths. Sadly, many of those who experience
+          such violence are less likely to report it. In turn, this lack of
+          justice might further prolong the mental health problems people
+          already experience.{" "}
+        </p>
+      </div>
     </div>
   );
 };

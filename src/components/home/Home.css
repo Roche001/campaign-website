@@ -9,6 +9,7 @@
   align-items: center;
   justify-content: center;
   text-align: start;
+  background-attachment: fixed;
 }
 .home-header {
   color: #ffffff;
