@@ -6,7 +6,7 @@ const Top = () => {
   return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
       <Container>
-        <Navbar.Brand href="#home">
+        <Navbar.Brand href="#Home">
           <div className="logo">
             <img src="./assets/design.png" /> <h4>Social Media Campaign</h4>
           </div>
