@@ -3,7 +3,7 @@ import "./Hidden.css";
 
 const Hidden = () => {
   return (
-    <div id="Hidden" className="container-fluid">
+    <section id="Hidden" className="container-fluid">
       <div className="hidden-head">
         <h5>Hidden Wounds – How Violence Affects Children’s Mental health </h5>
       </div>
@@ -42,7 +42,7 @@ const Hidden = () => {
         processes. Besides its devastating costs, violence has a massive
         negative influence on children’s present and future lives.
       </div>
-    </div>
+    </section>
   );
 };
 
