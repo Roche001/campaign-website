@@ -17,7 +17,32 @@
   color: #fff;
   border-radius: 50%;
   outline: 2px solid #fff;
+  transition-property: outline-offset, outline-color, background-color;
+  transition-duration: 400ms;
+  cursor: pointer;
 }
 .icon-a {
   margin: 1rem;
+}
+.icon:hover {
+  outline-offset: 4px;
+  animation: shake 0.4ms;
+}
+.icon-instagram:hover {
+  background-image: radial-gradient(
+    circle at 30% 107% #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  outline-color: #a02d76;
+}
+.icon-facebook:hover {
+  background-color: #285aeb;
+  outline-color: #285aeb;
+}
+
+.icon-facebook a:hover {
+  color: #fff;
 }
