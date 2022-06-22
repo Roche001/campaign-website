@@ -14,7 +14,8 @@ const Top = () => {
       <Container>
         <Navbar.Brand href="#Home">
           <div className="logo">
-            <img src="./assets/design.png" /> <h4>Social Media Campaign</h4>
+            <img src="./assets/design.png" alt="assets" />{" "}
+            <h4>Social Media Campaign</h4>
           </div>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
