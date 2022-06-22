@@ -10,3 +10,12 @@
   justify-content: center;
   text-align: start;
 }
+.home-header {
+  color: #ffffff;
+}
+.home-header h2 {
+  font-size: 10rem;
+}
+.home-header h5 {
+  font-size: 7rem;
+}
