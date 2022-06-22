@@ -6,14 +6,22 @@ const Top = () => {
   return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
       <Container>
-        <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+        <Navbar.Brand href="#home">
+          <div className="logo">
+            <img src="./assets/design.png" />{" "}
+          </div>
+        </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-        <Navbar.Collapse id="responsive-navbar-nav">
-          <Nav className="me-auto">
-            <Nav.Link href="#features">Features</Nav.Link>
-            <Nav.Link href="#pricing">Pricing</Nav.Link>
-          </Nav>
-        </Navbar.Collapse>
+        <div className="nav-items">
+          <Navbar.Collapse id="responsive-navbar-nav">
+            <Nav className="me-auto">
+              <Nav.Link href="#Home">Home</Nav.Link>
+              <Nav.Link href="#Violence">Youths and Violence </Nav.Link>
+              <Nav.Link href="#Hidden">Hidden Wounds</Nav.Link>
+              <Nav.Link href="#Wellbeing">Mental Health Wellbeing</Nav.Link>
+            </Nav>
+          </Navbar.Collapse>
+        </div>
       </Container>
     </Navbar>
   );
