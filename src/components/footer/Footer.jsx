@@ -9,25 +9,45 @@ const Footer = () => {
     <div id="footer">
       <div className="icons">
         <div className="icon-a">
-          <a className="icon icon-facebook" href="https://www.facebook.com/">
+          <a
+            className="icon icon-facebook"
+            href="https://www.facebook.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
             {" "}
             <BsFacebook />
           </a>
         </div>
         <div className="icon-a">
-          <a className="icon icon-instagram" href="https://www.instagram.com">
+          <a
+            className="icon icon-instagram"
+            href="https://www.instagram.com"
+            target="_blank"
+            rel="noreferrer"
+          >
             <AiFillInstagram />
           </a>
         </div>
         <div className="icon-a">
-          <a className="icon icon-twitter" href="https://www.twitter.com">
+          <a
+            className="icon icon-twitter"
+            href="https://www.twitter.com"
+            target="_blank"
+            rel="noreferrer"
+          >
             <span>
               <BsTwitter />
             </span>
           </a>
         </div>
         <div className="icon-a">
-          <a className="icon icon-linkedin" href="https://www.linkedin.com">
+          <a
+            className="icon icon-linkedin"
+            href="https://www.linkedin.com"
+            target="_blank"
+            rel="noreferrer"
+          >
             <BsLinkedin />
           </a>
         </div>
