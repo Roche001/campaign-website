@@ -1,7 +1,7 @@
 import React from "react";
 import "./Wellbeing.css";
 const Wellbeing = () => {
-  return <div>Wellbeing</div>;
+  return <div id="Wellbeing"></div>;
 };
 
 export default Wellbeing;
