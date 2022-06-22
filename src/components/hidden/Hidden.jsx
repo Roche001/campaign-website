@@ -26,8 +26,14 @@ const Hidden = () => {
           that can safeguard them within their families, schools, and cities
           (SRSG, 2021).{" "}
         </p>
+        <img
+          className="img-responsive"
+          src="./assets/child-abuse.jpg"
+          alt="child-abuse"
+        />
       </div>
       <div className="notes-3">
+        <h5>Notes:</h5>
         Despite its high pervasiveness, violence against children is often
         concealed, under-reported, and undetected. As a result of fear and
         intimidation, stigma, and societal approval of violence, only a few
