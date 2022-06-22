@@ -32,6 +32,20 @@ const Wellbeing = () => {
           </p>
         </div>
       </div>
+      <div className="reference">
+        <h5>References </h5>
+        <p>
+          Cuartas, J., & Roy, A. L. (2019). The latent threat of community
+          violence: Indirect exposure to local homicides and adolescents’ mental
+          health in Colombia. American journal of community psychology, 64(1-2),
+          219-231.
+        </p>
+        <p>
+          {" "}
+          SRSG, U. (2021). Hidden Scars: How Violence Harms the Mental Health of
+          Children.
+        </p>
+      </div>
     </div>
   );
 };
