@@ -4,7 +4,13 @@ import { Container, Nav, Navbar } from "react-bootstrap";
 
 const Top = () => {
   return (
-    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+    <Navbar
+      collapseOnSelect
+      expand="lg"
+      bg="dark"
+      variant="dark"
+      className="nav-bar"
+    >
       <Container>
         <Navbar.Brand href="#Home">
           <div className="logo">

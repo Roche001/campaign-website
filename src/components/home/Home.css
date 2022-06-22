@@ -13,12 +13,13 @@
 }
 .home-header {
   color: #ffffff;
+  padding: 8rem;
 }
 .home-header h2 {
-  font-size: 10rem;
+  font-size: 6rem;
 }
 .home-header h5 {
-  font-size: 7rem;
+  font-size: 6rem;
 }
 .text-head-small {
   color: #a9a9a9;
@@ -42,6 +43,4 @@
   text-align: start;
 }
 .home-paragraph p {
-  font-size: 1.2rem;
-  line-height: 2rem;
 }

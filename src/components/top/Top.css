@@ -9,3 +9,7 @@
 .nav-items {
   position: right;
 }
+.navbar {
+  position: fixed;
+  width: 100%;
+}
