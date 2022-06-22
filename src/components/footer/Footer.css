@@ -24,25 +24,27 @@
 .icon-a {
   margin: 1rem;
 }
+.icon-a a {
+  color: #fff;
+}
 .icon:hover {
   outline-offset: 4px;
   animation: shake 0.4ms;
 }
 .icon-instagram:hover {
-  background-image: radial-gradient(
-    circle at 30% 107% #fdf497 0%,
-    #fdf497 5%,
-    #fd5949 45%,
-    #d6249f 60%,
-    #285aeb 90%
-  );
+  background-color: #d6249f;
+
   outline-color: #a02d76;
 }
 .icon-facebook:hover {
   background-color: #285aeb;
   outline-color: #285aeb;
 }
-
-.icon-facebook a:hover {
-  color: #fff;
+.icon-twitter:hover {
+  background-color: #42a5f5;
+  outline-color: #42a5f5;
+}
+.icon-linkedin:hover {
+  background-color: #0d47a1;
+  outline-color: #0d47a1;
 }
