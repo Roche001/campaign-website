@@ -8,7 +8,7 @@ const Top = () => {
       <Container>
         <Navbar.Brand href="#home">
           <div className="logo">
-            <img src="./assets/design.png" />{" "}
+            <img src="./assets/design.png" /> <h4>Social Media Campaign</h4>
           </div>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />

@@ -1,6 +1,11 @@
 .logo img {
   width: 7rem;
 }
+.logo h4 {
+  font-size: 1rem;
+  margin-top: -2rem;
+  margin-left: -0.7rem;
+}
 .nav-items {
   position: right;
 }
