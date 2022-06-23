@@ -46,6 +46,9 @@ const Wellbeing = () => {
           Children.
         </p>
       </div>
+      <div className="space">
+        <h2>Future Content</h2>
+      </div>
     </section>
   );
 };
