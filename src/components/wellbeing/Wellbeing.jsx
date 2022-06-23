@@ -32,6 +32,9 @@ const Wellbeing = () => {
           </p>
         </div>
       </div>
+      <div className="space">
+        <h2>Future Content</h2>
+      </div>
       <div className="reference">
         <h5>References </h5>
         <p>
@@ -45,9 +48,6 @@ const Wellbeing = () => {
           SRSG, U. (2021). Hidden Scars: How Violence Harms the Mental Health of
           Children.
         </p>
-      </div>
-      <div className="space">
-        <h2>Future Content</h2>
       </div>
     </section>
   );
