@@ -25,18 +25,12 @@
   color: #e53935;
   text-align: center;
 }
-
-@media screen and (max-width: 600px) {
-  .space {
-    margin-left: 1rem;
-  }
-  .space img {
-    width: 100%;
-  }
-  .video {
-    margin-left: 1rem;
-  }
-  iframe {
-    width: 100%;
-  }
+iframe {
+  height: 50rem;
+  width: 100%;
+  border-radius: 0.5rem;
+}
+.action p {
+  margin: 2rem;
+  text-align: center;
 }
