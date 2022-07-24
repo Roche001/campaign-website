@@ -11,6 +11,7 @@
   background-image: url("../../images/international.jpg");
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   display: flex;
   color: #ffffff;
   align-items: center;
