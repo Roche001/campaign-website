@@ -2,3 +2,26 @@
  height: 20rem;
  width: 50wh;
 }
+.space{
+  margin-left: 4rem;
+}
+.video {
+  margin-left: 4rem;
+}
+.references {
+  margin-left: -4rem;
+}
+@media screen and (max-width:600px) {
+  .space{
+    margin-left: 1rem;
+  }
+  .space img{
+    width: 18rem;
+  }
+  .video{
+    margin-left: 1rem;
+  }
+  iframe {
+    width: 18rem;
+  }
+}

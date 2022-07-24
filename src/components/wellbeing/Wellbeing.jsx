@@ -4,8 +4,7 @@ const Wellbeing = () => {
   return (
     <section
       id="Wellbeing"
-      className="container-fluid
-    "
+      className="container"
     >
       <div className="wellbeing-header">
         <h5>
