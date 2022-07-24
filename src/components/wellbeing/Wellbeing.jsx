@@ -33,7 +33,11 @@ const Wellbeing = () => {
         </div>
       </div>
       <div className="space">
-        <h2>Future Content</h2>
+        <img  src="./assets/Post4.png" alt="Post4" />
+        <p>The image above depicts an ongoing guidance and counseling session among different individuals. Based on the discussions on impacts of violence on various members of the society, it is important to focus on finding ways of helping survivors of violence lead a normal life. There are several strategies to promote the mental wellness of victims and survivors of violence in the community, including children, youth, and women. Making an emotional safety plan, looking for professional mental health support, developing self-care programs, discovering survivors' strengths, and learning more about establishing personal boundaries are a few of these methods. Additionally helpful are family partnerships and mental health resources, as well as seeking trauma-informed care.</p>
+        <img src="./assets/post5.png" alt="post5" />
+        <p>Members of society encounter a variety of forms of violence. Due to the prevalence of gender-based violence around the world, this section will mostly address it. Gender-based violence is one of the most egregious forms of human abuse in many civilizations and is intimately related to gender inequality. Violence against a person that is motivated by their gender is referred to as gender-based violence. Gender-based violence affects both men and women, however the majority of victims are women and girls. Because gender-based violence is a global pandemic that affects one in three women in her lifetime, this section concentrates on it. </p>
+        <img src="" alt="" />
       </div>
       <div className="reference">
         <h5>References </h5>
