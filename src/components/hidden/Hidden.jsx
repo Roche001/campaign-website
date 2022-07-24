@@ -3,7 +3,7 @@ import "./Hidden.css";
 
 const Hidden = () => {
   return (
-    <section id="Hidden" className="container-fluid">
+    <section id="Hidden" className="container">
       <div className="hidden-head">
         <h5>Hidden Wounds – How Violence Affects Children’s Mental health </h5>
       </div>

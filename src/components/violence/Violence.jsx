@@ -2,7 +2,7 @@ import React from "react";
 import "./Violence.css";
 const Violence = () => {
   return (
-    <section id="Violence" className="container-fluid">
+    <section id="Violence" className="container">
       <div className="violence-head">
         <h5>The effects of violence on youths in the community</h5>
       </div>
