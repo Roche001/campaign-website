@@ -2,10 +2,7 @@ import React from "react";
 import "./Wellbeing.css";
 const Wellbeing = () => {
   return (
-    <section
-      id="Wellbeing"
-      className="container"
-    >
+    <section id="Wellbeing" className="container">
       <div className="wellbeing-header">
         <h5>
           Ways to Foster Mental health Wellbeing for Victim-Survivors in the
@@ -33,25 +30,129 @@ const Wellbeing = () => {
       </div>
       <div className="space">
         <h3>Visuals</h3>
-        <img  src="./assets/Post4.png" alt="Post4" />
-        <p>The image above depicts an ongoing guidance and counseling session among different individuals. Based on the discussions on impacts of violence on various members of the society, it is important to focus on finding ways of helping survivors of violence lead a normal life. There are several strategies to promote the mental wellness of victims and survivors of violence in the community, including children, youth, and women. Making an emotional safety plan, looking for professional mental health support, developing self-care programs, discovering survivors' strengths, and learning more about establishing personal boundaries are a few of these methods. Additionally helpful are family partnerships and mental health resources, as well as seeking trauma-informed care.</p>
+        <img src="./assets/Post4.png" alt="Post4" />
+        <p>
+          The image above depicts an ongoing guidance and counseling session
+          among different individuals. Based on the discussions on impacts of
+          violence on various members of the society, it is important to focus
+          on finding ways of helping survivors of violence lead a normal life.
+          There are several strategies to promote the mental wellness of victims
+          and survivors of violence in the community, including children, youth,
+          and women. Making an emotional safety plan, looking for professional
+          mental health support, developing self-care programs, discovering
+          survivors' strengths, and learning more about establishing personal
+          boundaries are a few of these methods. Additionally helpful are family
+          partnerships and mental health resources, as well as seeking
+          trauma-informed care.
+        </p>
         <img src="./assets/post5.png" alt="post5" />
-        <p>Members of society encounter a variety of forms of violence. Due to the prevalence of gender-based violence around the world, this section will mostly address it. Gender-based violence is one of the most egregious forms of human abuse in many civilizations and is intimately related to gender inequality. Violence against a person that is motivated by their gender is referred to as gender-based violence. Gender-based violence affects both men and women, however the majority of victims are women and girls. Because gender-based violence is a global pandemic that affects one in three women in her lifetime, this section concentrates on it. </p>
+        <p>
+          Members of society encounter a variety of forms of violence. Due to
+          the prevalence of gender-based violence around the world, this section
+          will mostly address it. Gender-based violence is one of the most
+          egregious forms of human abuse in many civilizations and is intimately
+          related to gender inequality. Violence against a person that is
+          motivated by their gender is referred to as gender-based violence.
+          Gender-based violence affects both men and women, however the majority
+          of victims are women and girls. Because gender-based violence is a
+          global pandemic that affects one in three women in her lifetime, this
+          section concentrates on it.{" "}
+        </p>
         <h3>Infographics</h3>
         <img src="./assets/post6.png" alt="Post6" />
-        <p>When women and girls are subjected to any form of violence, their human rights are violated. Recent findings and stories from people on the front lines indicate that all forms of violence against women and girls, including domestic abuse, have increased since the COVID-19 outbreak. The COVID-19 problem is causing the Shadow Pandemic to spread, and we must all work together to halt it. The capacity of critical services, such domestic abuse shelters and helplines, has been reached as COVID-19 cases continue to put a pressure on health care. Prioritizing the prevention of violence against women in COVID-19 response and recovery activities requires more work.</p>
+        <p>
+          When women and girls are subjected to any form of violence, their
+          human rights are violated. Recent findings and stories from people on
+          the front lines indicate that all forms of violence against women and
+          girls, including domestic abuse, have increased since the COVID-19
+          outbreak. The COVID-19 problem is causing the Shadow Pandemic to
+          spread, and we must all work together to halt it. The capacity of
+          critical services, such domestic abuse shelters and helplines, has
+          been reached as COVID-19 cases continue to put a pressure on health
+          care. Prioritizing the prevention of violence against women in
+          COVID-19 response and recovery activities requires more work.
+        </p>
       </div>
       <div className="video">
         <h3>Video</h3>
-      <iframe src="https://www.youtube.com/embed/ox4eiSAQJPU?autoplay=1&rel=0&cc_load_policy=1&iv_load_policy=3&controls=0&disablekb=1" width="560" height="315" title="Join the White Ribbon Campaign and stop violence against women" frameborder="0" allowfullscreen></iframe>
-      <p>The European Union and the rest of the globe both have a horrible reality about violence against women. Most often, men commit it. It is a result of gender inequality, but it nevertheless goes unrecognized and unchallenged much too frequently. It is the goal of the White Ribbon Campaign to change this. Men and boys who wear the White Ribbon promise never to use violence against women, to justify it, or to keep quiet about it. One of the biggest global programs to stop male violence against women is called White Ribbon. It began in Canada in 1991 and is currently prevalent in numerous nations all over the world. </p>
+        <iframe
+          src="https://www.youtube.com/embed/ox4eiSAQJPU?autoplay=1&rel=0&cc_load_policy=1&iv_load_policy=3&controls=0&disablekb=1"
+          width="560"
+          height="315"
+          title="Join the White Ribbon Campaign and stop violence against women"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+        <p>
+          The European Union and the rest of the globe both have a horrible
+          reality about violence against women. Most often, men commit it. It is
+          a result of gender inequality, but it nevertheless goes unrecognized
+          and unchallenged much too frequently. It is the goal of the White
+          Ribbon Campaign to change this. Men and boys who wear the White Ribbon
+          promise never to use violence against women, to justify it, or to keep
+          quiet about it. One of the biggest global programs to stop male
+          violence against women is called White Ribbon. It began in Canada in
+          1991 and is currently prevalent in numerous nations all over the
+          world.{" "}
+        </p>
       </div>
       <div className="action">
         <h3>Action Toolkit</h3>
         <h2>Stand Up!</h2>
         <h2>Speak Out!</h2>
         <h2>Take Action!</h2>
-        <p>Join the many youth activities around the world with a mission:to end violence women and girls. Ending this disgraceful global scourge is a huge task, but not an impossible one. It means breaking the silence about violence against women and girls through promoting a culture of respect and zero tolerance. It also critically involves partnering with men and boys to build this culture, and help eliminate gender stereotypes.</p>
+        <p>
+          Join the many youth activities around the world with a mission:to end
+          violence women and girls. Ending this disgraceful global scourge is a
+          huge task, but not an impossible one. It means breaking the silence
+          about violence against women and girls through promoting a culture of
+          respect and zero tolerance. It also critically involves partnering
+          with men and boys to build this culture, and help eliminate gender
+          stereotypes.
+        </p>
+        <h3>Ten Things Adults Can Do to Stop Violence in the Community</h3>
+        <ul>
+          <li>
+            O1. Set up a Neighborhood Watch or a community patrol, working with
+            police.
+          </li>
+          <li>02. Make sure your streets and homes are well-lighted.</li>
+          <li>
+            03. Make sure that all the youth in the neighborhood have positive
+            ways to spend their spare time, through organized recreation,
+            tutoring programs, part-time work, and volunteer opportunities.
+          </li>
+          <li>
+            04. Build a partnership with police, focus on solving problems
+            instead of reacting to crises. Make it possible for neighbors to
+            report suspicious activity or crimes without fear of retaliation.
+          </li>
+          <li>
+            05. Take advantage of “safety in numbers” to hold rallies, marches,
+            and other group activities to show you’re determined to drive out
+            crime and drugs.
+          </li>
+          <li>
+            06. Clean up the neighborhood! Involve everyone teens, children,
+            senior citizens. Graffiti, litter, abandoned cars, and run-down
+            buildings tell criminals that you don’t care about where you live or
+            each other. Call the local public works department and ask for help
+            in cleaning up.
+          </li>
+          <li>
+            07. Ask local officials to use new ways to get criminals out of your
+            building or neighborhood. These include enforcing anti-noise laws,
+            housing codes, health and fire codes, anti-nuisance laws, and
+            drug-free clauses in rental leases.
+          </li>
+          <li>08. Work with schools to establish drug-free zones.</li>
+          <li>09. Work with recreation officials to do the same for parks.</li>
+          <li>
+            10 Develop and share a phone list of local organizations that can
+            provide counseling, job training, guidance, and other services that
+            can help neighbors.
+          </li>
+        </ul>
       </div>
       <div className="reference">
         <h5>References </h5>

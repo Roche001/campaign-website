@@ -1,8 +1,8 @@
 .space img {
- height: 20rem;
- width: 50wh;
+  height: 20rem;
+  width: 50wh;
 }
-.space{
+.space {
   margin-left: 4rem;
 }
 .video {
@@ -11,43 +11,33 @@
 .references {
   margin-left: -4rem;
 }
-.action{
+.action {
   background-image: url("../../images/international.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
-  color: #FFFFFF;
- align-items: center;
+  color: #ffffff;
+  align-items: center;
   justify-content: center;
   flex-direction: column;
+  line-height: 2.5rem;
 }
-.action h2{
-  color: #FFFFFF;
-  margin-left: 4rem;
+.action h2 {
+  color: #e0e0e0;
 }
-.action h3{
-  color: #FFFFFF;
+.action h3 {
+  color: #e53935;
   text-align: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-@media screen and (max-width:600px) {
-  .space{
+@media screen and (max-width: 600px) {
+  .space {
     margin-left: 1rem;
   }
-  .space img{
+  .space img {
     width: 100%;
   }
-  .video{
+  .video {
     margin-left: 1rem;
   }
   iframe {
