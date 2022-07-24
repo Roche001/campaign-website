@@ -1,6 +1,7 @@
 .space img {
   height: 50rem;
   width: 100%;
+  border-radius: 0.5rem;
 }
 
 .references {
