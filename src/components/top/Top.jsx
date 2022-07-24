@@ -14,7 +14,7 @@ const Top = () => {
       <Container>
         <Navbar.Brand href="#Home">
           <div className="logo">
-            <img src="./assets/design.png" alt="assets" />{" "}
+            <img src="./assets/child-abuse.jpg" alt="assets" />{" "}
             <h4>Social Media Campaign</h4>
           </div>
         </Navbar.Brand>
