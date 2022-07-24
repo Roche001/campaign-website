@@ -48,6 +48,10 @@ const Wellbeing = () => {
       </div>
       <div className="action">
         <h3>Action Toolkit</h3>
+        <h2>Stand Up!</h2>
+        <h2>Speak Out!</h2>
+        <h2>Take Action!</h2>
+        <p>Join the many youth activities around the world with a mission:to end violence women and girls. Ending this disgraceful global scourge is a huge task, but not an impossible one. It means breaking the silence about violence against women and girls through promoting a culture of respect and zero tolerance. It also critically involves partnering with men and boys to build this culture, and help eliminate gender stereotypes.</p>
       </div>
       <div className="reference">
         <h5>References </h5>

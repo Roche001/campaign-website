@@ -11,6 +11,35 @@
 .references {
   margin-left: -4rem;
 }
+.action{
+  background-image: url("../../images/international.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  color: #FFFFFF;
+ align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.action h2{
+  color: #FFFFFF;
+  margin-left: 4rem;
+}
+.action h3{
+  color: #FFFFFF;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (max-width:600px) {
   .space{
     margin-left: 1rem;
