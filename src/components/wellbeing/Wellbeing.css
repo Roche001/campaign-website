@@ -16,12 +16,12 @@
     margin-left: 1rem;
   }
   .space img{
-    width: 18rem;
+    width: 100%;
   }
   .video{
     margin-left: 1rem;
   }
   iframe {
-    width: 18rem;
+    width: 100%;
   }
 }

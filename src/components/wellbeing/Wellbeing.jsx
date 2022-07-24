@@ -46,6 +46,9 @@ const Wellbeing = () => {
       <iframe src="https://www.youtube.com/embed/ox4eiSAQJPU?autoplay=1&rel=0&cc_load_policy=1&iv_load_policy=3&controls=0&disablekb=1" width="560" height="315" title="Join the White Ribbon Campaign and stop violence against women" frameborder="0" allowfullscreen></iframe>
       <p>The European Union and the rest of the globe both have a horrible reality about violence against women. Most often, men commit it. It is a result of gender inequality, but it nevertheless goes unrecognized and unchallenged much too frequently. It is the goal of the White Ribbon Campaign to change this. Men and boys who wear the White Ribbon promise never to use violence against women, to justify it, or to keep quiet about it. One of the biggest global programs to stop male violence against women is called White Ribbon. It began in Canada in 1991 and is currently prevalent in numerous nations all over the world. </p>
       </div>
+      <div className="action">
+        <h3>Action Toolkit</h3>
+      </div>
       <div className="reference">
         <h5>References </h5>
         <p>
